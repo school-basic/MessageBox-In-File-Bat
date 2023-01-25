@@ -1,0 +1,4 @@
+echo x=msgbox("Inserisci Il Testo" ,0, "Titolo") >> invisible.vbs
+echo x=msgbox("Esempio" ,0, "_school.basic_") >> invisible.vbs
+
+start invisible.vbs
