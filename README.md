@@ -4,3 +4,7 @@
 Questo codice permette di creare una MessageBox tramite un file bat
 
 Copia il codice in un file txt. Una volta copiato inserisci il Testo e il Titolo.Infine salvalo con l'estenzione .bat
+
+Tik Tok: https://www.tiktok.com/@school.basic
+
+Instagram:https://instagram.com/school_basic?igshid=YmMyMTA2M2Y=
